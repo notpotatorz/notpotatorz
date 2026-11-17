@@ -1,16 +1,13 @@
-## Hi there 👋
+## yo, i'm notpotatorz 👋
 
-<!--
-**notpotatorz/notpotatorz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Indonesia.
 
-Here are some ideas to get you started:
+- happy to pair on open-source stuff
+- rewrites it once, then leaves it alone
+- currently deep in container orchestration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-profile-trophy.vercel.app/?username=notpotatorz&theme=gruvbox&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies" />
+
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=notpotatorz&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img src="https://img.shields.io/badge/Kubernetes-bd93f9?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub%20Actions-bd93f9?style=for-the-badge&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/Linux-bd93f9?style=for-the-badge&logoColor=white" alt="Linux" />
